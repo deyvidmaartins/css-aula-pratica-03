@@ -1,0 +1,29 @@
+body {
+    background-color: rgb(255, 250, 209);
+}
+.class1 {
+    font-style: oblique;
+    font-size: 40px;
+    font-weight: bold;
+}
+.idade1 {
+    font-size: 25px;
+    font-style: italic;
+}
+.class2 {
+    font-size: 40px;
+    font-style: italic;
+}
+.idade2 {
+    font-style: inherit;
+    font-size: 25px;   
+}
+.class3 {
+    font-style: unset;
+    font-size: 40px;
+    font-weight: 900;
+}
+.idade3 {
+    font-style: inherit;
+    font-size: 25px;
+}

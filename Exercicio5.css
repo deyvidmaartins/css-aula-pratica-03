@@ -1,0 +1,27 @@
+.p1 {
+    color: blue;
+    font-size: 12px;
+    letter-spacing: 3em;
+    letter-spacing: 4px;
+    height: 3em;
+    text-align: left;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-indent: 25px;
+}
+
+#titulo1 {
+    color: red;
+    font-style: italic;
+    text-align: center;
+    letter-spacing: 10px;
+}
+div {
+    color: pink;
+    height: 400px;
+    width: 60%;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    text-align: right;
+    letter-spacing: 6px;
+    background-color: coral;
+}
